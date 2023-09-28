@@ -1,4 +1,4 @@
-from bonus_polynomial_helper_functions import *
+from sensorless_polynomial_helper_functions import *
 from Maze import Maze
 from time import sleep
 from random import randint

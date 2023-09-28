@@ -1,7 +1,7 @@
 from Maze import Maze
 
 from uninformed_search import bfs_search
-from bonus_polynomial_sensorless_problem import SensorlessPolynomial
+from sensorless_polynomial_problem import SensorlessPolynomial
 
 # Author: Ben Williams '25
 # Date: September 25th, 2023
